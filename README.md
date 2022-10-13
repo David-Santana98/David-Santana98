@@ -1,5 +1,5 @@
  <div align="center">
- <img alt="emoji" height="200" width="200" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/man-technologist-medium-skin-tone_1f468-1f3fd-200d-1f4bb.png">
+ <img alt="emoji" height="200" width="200" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/man-raising-hand-medium-skin-tone_1f64b-1f3fd-200d-2642-fe0f.png">
  </div>
 <h1 align="center">Olá tudo bem? Eu sou o David Santana, estudante de programação e Engenharia !</h1>
 <div align="center">
