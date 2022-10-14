@@ -25,6 +25,10 @@
   <a href = "mailto:dvs.kali.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/david-santana-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+  </br> 
+  </br>
+  <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/David-Santana98/count.svg" /></p>
+ 
  
   ![Snake animation](https://github.com/David-Santana98/David-Santana98/blob/output/github-contribution-grid-snake.svg)
  </div>
