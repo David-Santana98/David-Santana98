@@ -17,6 +17,7 @@
   <img align="center" alt="React" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Python" height="60" width="60" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
+  <img align="center" alt+"PHP" hegth="60" width="60" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
 </div>
   
   ##
