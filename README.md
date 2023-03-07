@@ -1,8 +1,12 @@
- <div align="center">
- <img alt="emoji" height="200" width="200" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/man-raising-hand-medium-skin-tone_1f64b-1f3fd-200d-2642-fe0f.png">
- </div>
-<h2 align="center">Olá tudo bem? Eu sou o David Santana, estudante de programação e Engenharia!
-<br> <a href="https://vercel.com/david-santana98" target="_blank">confira meus projetos no vercel<a>
+
+<h2 align="center">Hey guys! how are you? I'm David Santana, Internet Systems and Computer Engineering student!
+
+and follow me on social media!
+
+I count on your help to continue evolving!!
+
+ <a href="https://vercel.com/david-santana98" target="_blank">check out my projects on vercel!<a><br><br>
+thanks! 😁✌ 
 </h2>
 <div align="center">
   <a href="https://github.com/David-Santana98">
